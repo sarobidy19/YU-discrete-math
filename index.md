@@ -4,7 +4,7 @@ title: Home
 
 Welcome to the York University Discrete Mathematics seminar. During the Fall 2024 term, the seminar will be on Thursday every two weeks at 10:30 AM, Ontario time. Location: [N638/Ross, York University](https://www.google.com/maps/dir//Toronto,+ON+M3J+1P3/@43.7722137,-79.5861929,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b2e2562b62519:0x7d29e594af98aab4!2m2!1d-79.5037922!2d43.7722433?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D).
 
-This seminar is organized by [Amena Assem](https://www.amenaassem.com/) and [Sarobidy Razafimahatratra](https://sarobidyraz.com/). Please email us if you would like to give a talk in this seminar.
+This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnassem@yorku.ca)](mailto:amnassem@yorku.ca) and [Sarobidy Razafimahatratra](https://sarobidyraz.com/) [(srazafim@fieldsinstitute.ca)](mailto:srazafim@fieldsinstitute.ca). Please email us if you would like to give a talk in this seminar.
 
 # Fall 2024
 

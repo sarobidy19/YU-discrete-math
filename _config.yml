@@ -14,8 +14,8 @@ description: "Create an OER workshop website quick and easy!"
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
-author: Sarobidy Razafimahatratra
-pub_year: 2024
+author:
+pub_year: 
 github_username: 
 
 # add the full url for the github repository
