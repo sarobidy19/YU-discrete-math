@@ -18,6 +18,9 @@ author:
 pub_year: 
 github_username: 
 
+enable_math: true
+
+
 # add the full url for the github repository
 repo: "https://github.com/evanwill/workshop-template"
 
