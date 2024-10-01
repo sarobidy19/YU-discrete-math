@@ -40,8 +40,8 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 # Future talks
 
 * Sarobidy Razafimahatratra (October 10).
-* Mariia Sobchuk (October 24)
-* Martijn Gösgens (November 7)
+* [Mariia Sobchuk](https://uwaterloo.ca/scholar/msobchuk) (October 24)
+* [Martijn Gösgens](https://martijngosgens.nl/) (November 7)
 * TBA (November 21)
 * TBA (December 5)
 
