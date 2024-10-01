@@ -41,7 +41,7 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 * Sarobidy Razafimahatratra (October 10).
 * Mariia Sobchuk (October 24)
-* TBA (November 7)
+* Martijn Gösgens (November 7)
 * TBA (November 21)
 * TBA (December 5)
 
