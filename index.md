@@ -44,6 +44,5 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 * Sarobidy Razafimahatratra (October 10).
 * [Mariia Sobchuk](https://uwaterloo.ca/scholar/msobchuk) (October 24)
 * [Martijn Gösgens](https://martijngosgens.nl/) (November 7)
-* TBA (November 21)
-* TBA (December 5)
+* [Theodore Mishura](https://www.torontomu.ca/graphs-group/group-members/theodore-mishura/) (December 5)
 
