@@ -8,6 +8,23 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 # Fall 2024
 
+**Speaker:** Mariia Sobchuk  (University of Waterloo)
+
+**Date and time:** October 24 at 10:30 AM.
+
+**Location:** N638/Ross, York University
+
+**Title:** TBA
+
+
+**Abstract:** *TBA*
+
+
+<br>
+
+---
+
+<br>
 
 **Speaker:**  Sarobidy Razafimahatratra (Fields Institute)
 
