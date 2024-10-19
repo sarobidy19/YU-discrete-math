@@ -14,10 +14,10 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 **Location:** N638/Ross, York University
 
-**Title:** TBA
+**Title:** Quantum isomorphisms
 
 
-**Abstract:** *TBA*
+**Abstract:** *In this talk I will talk about relationships between Godsil-McKay switching, coherent algebras and quantum isomorphisms as well as describe a new family of graphs with quantum symmetry.*
 
 
 <br>
@@ -56,9 +56,14 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 **Abstract:** *After an introduction to NE (North, East) lattice paths, we rotate our frame of reference into UD (Up, Down) lattice paths and add a '(max) height' constraint.  We count NE lattice paths by two methods: first by encoding the steps as binary strings (a simple counting problem to solve); second by repeatedly applying Pascal's recurrence to generate a decision tree, which can be carefully transformed back into a lattice grid.  While logically circular for NE paths, this second method is surprisingly helpful for counting height-restricted UD paths.  After one more reflection, we see that the UD path problem is equivalent to an NE lattice with different dimensions, deriving a nice, closed form!  We close by considering some other bivariate sequences to see how far we can generalize the method.  Results on height-restricted UD paths come from work on a recent submission by Acton, Petersen, Shirman, and Tenner [https://arxiv.org/abs/2401.11680](https://arxiv.org/abs/2401.11680).*
 
+<br>
+
+---
+
+<br>
+
 # Future talks
 
-* Sarobidy Razafimahatratra (October 10).
 * [Mariia Sobchuk](https://uwaterloo.ca/scholar/msobchuk) (October 24)
 * [Martijn Gösgens](https://martijngosgens.nl/) (November 7)
 * [Theodore Mishura](https://www.torontomu.ca/graphs-group/group-members/theodore-mishura/) (December 5)
