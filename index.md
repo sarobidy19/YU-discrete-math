@@ -8,7 +8,26 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 # Fall 2024
 
-**Speaker:** Mariia Sobchuk  (University of Waterloo)
+
+**Speaker:** [Martijn Gösgens](https://martijngosgens.nl/) (Toronto Metropolitan University)
+
+**Date and time:** November 7 at 10:30 AM.
+
+**Location:** N638/Ross, York University
+
+**Title:** The Erdős-Rényi Random Graph Conditioned on Every Component Being a Clique
+
+
+**Abstract:** *We consider an Erdős-Rényi random graph, conditioned on the rare event that all connected components are fully connected. Such graphs can be considered as partitions of vertices into cliques. Hence, this conditional distribution defines a distribution over partitions. Using tools from analytic combinatorics, we prove limit theorems for several graph observables: the number of cliques; the number of edges; and the degree distribution. We consider several regimes of the connection probability p as the number of vertices n diverges. For $$p=\frac{1}{2}$$, the conditioning yields the uniform distribution over set partitions, which is well-studied, but has not been studied as a graph distribution before. For $$p<\frac{1}{2}$$, we show that the number of cliques is of the order $$\frac{n}{\sqrt{\log n}}$$, while for $$p>\frac{1}{2}$$, we prove that the graph consists of a single clique with high probability. This shows that there is a phase transition at $$p=\frac{1}{2}$$. We additionally study the near-critical regime $$p_n\downarrow \frac{1}{2}$$, as well as the sparse regime $$p_n\downarrow 0.$$*
+
+<br>
+
+---
+
+<br>
+
+
+**Speaker:** [Mariia Sobchuk](https://uwaterloo.ca/scholar/msobchuk)  (University of Waterloo)
 
 **Date and time:** October 24 at 10:30 AM.
 
@@ -26,7 +45,7 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 <br>
 
-**Speaker:**  Sarobidy Razafimahatratra (Fields Institute)
+**Speaker:**  [Sarobidy Razafimahatratra](https://sarobidyraz.com/) (Fields Institute)
 
 **Date and time:** October 10 at 10:30 AM.
 
@@ -64,7 +83,6 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 # Future talks
 
-* [Mariia Sobchuk](https://uwaterloo.ca/scholar/msobchuk) (October 24)
 * [Martijn Gösgens](https://martijngosgens.nl/) (November 7)
 * [Theodore Mishura](https://www.torontomu.ca/graphs-group/group-members/theodore-mishura/) (December 5)
 
