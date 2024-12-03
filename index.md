@@ -8,6 +8,21 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 # Fall 2024
 
+**Speaker:** [Theodore Mishura](https://www.torontomu.ca/math/our-people/theodore-mishura/) (Toronto Metropolitan University)
+
+**Date and time:** December 5 at 10:30 AM.
+
+**Location:** N638/Ross, York University
+
+**Title:** How to cool a graph
+
+**Abstract:** *We introduce a new graph parameter called the cooling number, inspired by the spread of influence in networks and its predecessor, the burning number. Given a graph G, the cooling number of G is determined via the following single player round-based process: Each round, all uncooled neighbors of each cooled vertex become cooled; then, an uncooled vertex is selected by the player and cooled. The maximum number of rounds any such process can take is the cooling number of G, and it measures the speed of a slow-moving contagion in a graph; the lower the cooling number, the faster the contagion spreads. We provide tight bounds on the cooling number via a graph's order and diameter, determine the cooling number of certain special graph families, and discuss complexity results.*
+
+<br>
+
+---
+
+<br>
 
 **Speaker:** [Martijn Gösgens](https://martijngosgens.nl/) (Toronto Metropolitan University)
 
