@@ -2,9 +2,25 @@
 title: Home
 ---
 
-Welcome to the York University Discrete Mathematics seminar. During the Winter 2025 term, the seminar will be on Wednesday every two weeks at 2:00 PM, Ontario time. Location: [N638/Ross, York University](https://www.google.com/maps/dir//Toronto,+ON+M3J+1P3/@43.7722137,-79.5861929,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b2e2562b62519:0x7d29e594af98aab4!2m2!1d-79.5037922!2d43.7722433?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D).
+Welcome to the York University Discrete Mathematics seminar. During the Winter 2025 term, the seminar will be on Wednesday every two weeks at 2:00 PM, Ontario time. Location: [N501/Ross, York University](https://www.google.com/maps/dir//Toronto,+ON+M3J+1P3/@43.7722137,-79.5861929,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x882b2e2562b62519:0x7d29e594af98aab4!2m2!1d-79.5037922!2d43.7722433?entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D).
 
 This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnassem@yorku.ca)](mailto:amnassem@yorku.ca) and [Sarobidy Razafimahatratra](https://sarobidyraz.com/) [(srazafim@fieldsinstitute.ca)](mailto:srazafim@fieldsinstitute.ca). Please email us if you would like to give a talk in this seminar.
+
+<br>
+
+---
+
+<br>
+
+**Speaker:** [Jane Breen](https://sites.google.com/view/breenj) (Ontario Tech University)
+
+**Date and time:** February 12 at 2:00 PM.
+
+**Location:** N501/Ross, York University
+
+**Title:** *Maximum spread of graphs* 
+
+**Abstract:** *Given a graph $$G$$, let $$\lambda_1$$  and $$\lambda_n$$ be the maximum and minimum eigenvalues of its adjacency matrix and define the spread of $$G$$ to be $$\lambda_1-\lambda_n$$. In this talk we discuss solutions to a 20-year-old conjecture of Gregory, Hershkowitz, and Kirkland regarding the spread of graphs. Our proofs use techniques from the theory of graph limits (graphons) and numerical analysis, including a computer-assisted proof of a finite-dimensional eigenvalue problem using both interval arithmetic and symbolic computations.*
 
 <br>
 
@@ -24,4 +40,5 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 # Future talks
 
-* 	[Denys Bulavka](https://kam.mff.cuni.cz/~dbulavka/) (January 29)										
+* 	[Denys Bulavka](https://kam.mff.cuni.cz/~dbulavka/) (January 29)
+* 	[Jane Breen](https://sites.google.com/view/breenj) (February 12)									
