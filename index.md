@@ -12,6 +12,28 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 <br>
 
+**Speaker:** [Gill Barequet](https://barequet.cs.technion.ac.il/) (Technion -- Israel Inst. of Technology)
+
+**Date and time:** March 14 at 2:30 PM.
+
+**Location:** N638/Ross, York University
+
+**Title:** *Polycubes with small perimeter defect* 
+
+**Abstract:** *Lattice animals are connected sets of cells on a lattice.  For example, \emph{polyominoes} are connected sets of cells on the planar square lattice, where connectivity is through edges (sides of the squares).
+One of the main problems in this area is finding a formula for the number of animals (or for the number of members of some family of animals) on some lattice.*
+
+*In this talk, I will explore methods for setting formulae for the number of animals on the $d$-dimensional cubical lattice, whose perimeter deviates by a fixed constant from the maximum possible perimeter.*
+ 
+*Joint work with Andrei Asinowski (Alpen-Adria-Universität Klagenfurt) and Yufei Zheng (UMass Amherst).*
+
+
+<br>
+
+---
+
+<br>
+
 **Speaker:** [Jane Breen](https://sites.google.com/view/breenj) (Ontario Tech University)
 
 **Date and time:** February 12 at 2:00 PM.
