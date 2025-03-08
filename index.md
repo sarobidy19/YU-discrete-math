@@ -14,7 +14,7 @@ This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnass
 
 **Speaker:** [Gill Barequet](https://barequet.cs.technion.ac.il/) (Technion -- Israel Inst. of Technology)
 
-**Date and time:** March 14 at 2:30 PM.
+**Date and time:** March 14 at 2:00 PM.
 
 **Location:** N638/Ross, York University
 
