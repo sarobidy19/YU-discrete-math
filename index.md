@@ -6,6 +6,26 @@ Welcome to the York University Discrete Mathematics seminar. During the Winter 2
 
 This seminar is organized by [Amena Assem](https://www.amenaassem.com/) [(amnassem@yorku.ca)](mailto:amnassem@yorku.ca) and [Sarobidy Razafimahatratra](https://sarobidyraz.com/) [(srazafim@fieldsinstitute.ca)](mailto:srazafim@fieldsinstitute.ca). Please email us if you would like to give a talk in this seminar.
 
+
+<br>
+
+---
+
+<br>
+
+**Speaker:** [Thomás Jung Spier](https://homepages.dcc.ufmg.br/~thomasjung/) (University of Waterloo)
+
+**Date and time:** April 7 at 1:30 PM.
+
+**Location:** N638/Ross, York University
+
+**Title:** *Perfect state transfer in chains*
+
+**Abstract:**
+
+In this talk, we present some advances in the problem of classifying all possible vertex positions in a chain involved in perfect state transfer. We also show that this problem is related to the Prouhet-Tarry-Escott problem in number theory. This is a joint work with Frederico Cançado, Gabriel Coutinho, Alastair Kay and Harmony Zhan. 
+
+
 <br>
 
 ---
